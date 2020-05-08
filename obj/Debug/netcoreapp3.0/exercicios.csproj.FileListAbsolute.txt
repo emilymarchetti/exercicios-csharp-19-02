@@ -1,0 +1,11 @@
+C:\Users\Lab01\Downloads\GitHub\c#\exercicios\obj\Debug\netcoreapp3.0\exercicios.csprojAssemblyReference.cache
+C:\Users\Lab01\Downloads\GitHub\c#\exercicios\obj\Debug\netcoreapp3.0\exercicios.AssemblyInfoInputs.cache
+C:\Users\Lab01\Downloads\GitHub\c#\exercicios\obj\Debug\netcoreapp3.0\exercicios.AssemblyInfo.cs
+C:\Users\Lab01\Downloads\GitHub\c#\exercicios\bin\Debug\netcoreapp3.0\exercicios.exe
+C:\Users\Lab01\Downloads\GitHub\c#\exercicios\bin\Debug\netcoreapp3.0\exercicios.deps.json
+C:\Users\Lab01\Downloads\GitHub\c#\exercicios\bin\Debug\netcoreapp3.0\exercicios.runtimeconfig.json
+C:\Users\Lab01\Downloads\GitHub\c#\exercicios\bin\Debug\netcoreapp3.0\exercicios.runtimeconfig.dev.json
+C:\Users\Lab01\Downloads\GitHub\c#\exercicios\bin\Debug\netcoreapp3.0\exercicios.dll
+C:\Users\Lab01\Downloads\GitHub\c#\exercicios\bin\Debug\netcoreapp3.0\exercicios.pdb
+C:\Users\Lab01\Downloads\GitHub\c#\exercicios\obj\Debug\netcoreapp3.0\exercicios.dll
+C:\Users\Lab01\Downloads\GitHub\c#\exercicios\obj\Debug\netcoreapp3.0\exercicios.pdb

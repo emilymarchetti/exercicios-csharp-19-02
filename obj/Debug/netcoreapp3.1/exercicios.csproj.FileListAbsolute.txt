@@ -1,0 +1,13 @@
+C:\Users\dev-01\Google Drive\ADS\c#\exercicios\bin\Debug\netcoreapp3.1\exercicios.exe
+C:\Users\dev-01\Google Drive\ADS\c#\exercicios\bin\Debug\netcoreapp3.1\exercicios.deps.json
+C:\Users\dev-01\Google Drive\ADS\c#\exercicios\bin\Debug\netcoreapp3.1\exercicios.runtimeconfig.json
+C:\Users\dev-01\Google Drive\ADS\c#\exercicios\bin\Debug\netcoreapp3.1\exercicios.runtimeconfig.dev.json
+C:\Users\dev-01\Google Drive\ADS\c#\exercicios\bin\Debug\netcoreapp3.1\exercicios.dll
+C:\Users\dev-01\Google Drive\ADS\c#\exercicios\bin\Debug\netcoreapp3.1\exercicios.pdb
+C:\Users\dev-01\Google Drive\ADS\c#\exercicios\obj\Debug\netcoreapp3.1\exercicios.csprojAssemblyReference.cache
+C:\Users\dev-01\Google Drive\ADS\c#\exercicios\obj\Debug\netcoreapp3.1\exercicios.csproj.CoreCompileInputs.cache
+C:\Users\dev-01\Google Drive\ADS\c#\exercicios\obj\Debug\netcoreapp3.1\exercicios.AssemblyInfoInputs.cache
+C:\Users\dev-01\Google Drive\ADS\c#\exercicios\obj\Debug\netcoreapp3.1\exercicios.AssemblyInfo.cs
+C:\Users\dev-01\Google Drive\ADS\c#\exercicios\obj\Debug\netcoreapp3.1\exercicios.dll
+C:\Users\dev-01\Google Drive\ADS\c#\exercicios\obj\Debug\netcoreapp3.1\exercicios.pdb
+C:\Users\dev-01\Google Drive\ADS\c#\exercicios\obj\Debug\netcoreapp3.1\exercicios.genruntimeconfig.cache
